@@ -19,7 +19,7 @@ Why Buy Your Printed Circuit Boards From PCBWay?
 ## See https://youtube.com/ralphbacon video #136  
 (Direct link to video: )
 
-I discovered that you can get physically **small MOSFETs**, in a TO92 package, but how do they stack up against the traditional BJT NON transistors that we've used for years?
+I discovered that you can get physically **small MOSFETs**, in a TO92 package, but how do they stack up against the traditional BJT NPN transistors that we've used for years?
 
 So we can try a small experiment to see what load they can switch and, most importantly, whether they can switch on at the **TTL level** 5v like their bigger (TO220 package) brethren.
 
