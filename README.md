@@ -16,16 +16,16 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Factory Outlet PCBs with most competitive advantages  
   * Chief PCB Manufacturer Located in China 
 ```
-# See https://youtube.com/ralph video #136  
+# See https://youtube.com/ralphbacon video #136  
 (Direct link to video: )
 
-I discoverd that you can get physically small MOSFETs, in a TO92 package, but how do they stack up agains the traditional BJT NON transistors that we've used for years?
+I discoverd that you can get physically **small MOSFETs**, in a TO92 package, but how do they stack up agains the traditional BJT NON transistors that we've used for years?
 
-So we can try a small experiment to see what load they can switch and, most importantly, whether they can switch on at the TTL level 5v like their bigger (TO220 package) brethren.
+So we can try a small experiment to see what load they can switch and, most importantly, whether they can switch on at the **TTL level** 5v like their bigger (TO220 package) brethren.
 
-And what about their RDS(on) spec? A large MOSFET might have an on-resistance of only 0.02 ohms, perfect to allow it to carry large currents without melting whilst it does so. What about these little 2N7000 devices though?
+And what about their **RDS(on)** spec? A large MOSFET might have an on-resistance of only 0.02 ohms, perfect to allow it to carry large currents without melting whilst it does so. What about these little 2N7000 devices though?
 
-And how expensive are they? Do they compare well with their BJT counterparts? Or is there a price premium to pay?  
+And how **expensive** are they? Do they compare well with their BJT counterparts? Or is there a price premium to pay?  
 
 Where I got my 2N7000 MOSFETs (10 pieces):  
 https://www.banggood.com/10pcs-2N7000-NChannel-Transistor-Fast-Switch-MOSFET-TO92-p-924050.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
