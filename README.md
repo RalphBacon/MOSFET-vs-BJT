@@ -27,7 +27,9 @@ And what about their **RDS(on)** spec? A large MOSFET might have an on-resistanc
 
 And how **expensive** are they? Do they compare well with their BJT counterparts? Or is there a price premium to pay?  
 
-Where I got my 2N7000 MOSFETs (10 pieces):  
+Some links may be affilliate links which help this channel - at no cost to you, of course. Click a link and then start shopping. It all helps keep this channel supplied with electronic items!
+
+Where I got my 2N7000 MOSFETs (10 pieces), Banggood, where else:  
 https://www.banggood.com/10pcs-2N7000-NChannel-Transistor-Fast-Switch-MOSFET-TO92-p-924050.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
 Then again, 10 pieces of a common BJT NON transistor are pretty cheap:  
