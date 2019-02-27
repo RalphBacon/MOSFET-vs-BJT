@@ -40,7 +40,7 @@ Article about the 2N7000, bedtime reading:
 https://www.theengineeringprojects.com/2018/02/introduction-to-2n7000.html
 
 
-If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so :)
+If you like this video please give it a thumbs up, share it and if you're not already subscribed please consider doing so and joining me on my Arduinite journey 😊
 
 ### My channel and blog are here: ###  
 \------------------------------------------------------------------  
