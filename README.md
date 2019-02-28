@@ -32,7 +32,7 @@ Some links may be affilliate links which help this channel - at no cost to you, 
 Where I got my 2N7000 MOSFETs (10 pieces), Banggood, where else:  
 https://www.banggood.com/10pcs-2N7000-NChannel-Transistor-Fast-Switch-MOSFET-TO92-p-924050.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897  
 
-Then again, 10 pieces of a common BJT NON transistor are pretty cheap:  
+Then again, 10 pieces of a common BJT NPN transistor are pretty cheap:  
 https://www.banggood.com/10Pcs-TO-92-Triode-Transistor-BC547-BC557-NPN-PBP-Low-Power-Transistors-p-1305826.html?p=FQ040729393382015118&utm_campaign=25129675&utm_content=3897    
 
 Wikipedia article all about the 2N7000:  
