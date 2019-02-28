@@ -17,7 +17,7 @@ Why Buy Your Printed Circuit Boards From PCBWay?
   * Chief PCB Manufacturer Located in China 
 ```
 ## See https://youtube.com/ralphbacon video #136  
-(Direct link to video: )
+(Direct link to video: https://youtu.be/j5urQ9fZug4 )
 
 I discovered that you can get physically **small MOSFETs**, in a TO92 package, but how do they stack up against the traditional BJT NPN transistors that we've used for years?
 
